@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Learning more about React.js.
+- 🌱 &nbsp; Learning more about Ad.Tech!
 - ✍️ &nbsp; Learning MERN full stack.
 -  🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Engineering at Sri Vasavi Engineering College.
