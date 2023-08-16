@@ -5,7 +5,7 @@
 - 🌱 &nbsp; Learning more about Ad.Tech!
 - ✍️ &nbsp; Learning MERN full stack.
 -  🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science and Engineering at Sri Vasavi Engineering College.
+- 🎓 &nbsp; Studied Computer Science and Engineering at Sri Vasavi Engineering College and Dimploma At Andhra Polytechnic Kakinada.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
