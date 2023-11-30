@@ -20,7 +20,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Spring boot]([https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396](https://dribbble.com/shots/11897843-Spring-io-logo-animation/attachments/3523652?mode=media))
+  ![Spring boot](https://img.shields.io/badge/-springboot-333333?style=flat&logo=springboot))
 
 
 - 🛢 &nbsp;
