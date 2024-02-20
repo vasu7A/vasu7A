@@ -25,7 +25,6 @@
 
 - 🛢 &nbsp;
   ![sqlite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
