@@ -7,7 +7,7 @@
 - 🛠️ &nbsp; I work across the stack, from video players with dynamic ad rendering to real-time backend systems using Kafka and Redis Streams.
 - 📈 &nbsp; I love solving complex system design problems, optimizing for performance and user experience.
 - 🌱 &nbsp; Currently learning: Rust, Systems Programming, and Advanced Distributed Systems.
-- 🎓 &nbsp; Studied Computer Science and Engineering at Sri Vasavi Engineering College, Diploma at Andhra Polytechnic Kakinada.
+- 🎓 &nbsp; Studied Computer Science and Engineering and Diploma in Computer Science
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
